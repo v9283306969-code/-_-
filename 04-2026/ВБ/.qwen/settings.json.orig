@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip list)",
+      "Bash(findstr *)",
+      "Bash(pip install *)"
+    ]
+  },
+  "$version": 4
+}
